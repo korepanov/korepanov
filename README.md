@@ -1,4 +1,13 @@
-## Hi there 👋
+# About me 
+
+I'm a backend developer:
+- Go
+- Python
+- C/C++
+- C#
+- Assembler
+
+⚡ I'm currently working on compilers and courses for other programmers.
 
 <!--
 **korepanov/korepanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

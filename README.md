@@ -1,13 +1,13 @@
 # About me 
 
-⚡ I'm a backend developer:
+I'm a backend developer:
 - Go
 - Python
 - C/C++
 - C#
 - Assembler
 
-I'm currently working on compilers and games.
+⚡ I'm currently working on compilers and games.
 
 <!--
 **korepanov/korepanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

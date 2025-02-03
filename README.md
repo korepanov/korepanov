@@ -7,7 +7,7 @@ I'm a backend developer:
 - C#
 - Assembler
 
-⚡ I'm currently working on compilers and games.
+⚡ I'm currently working on a transpiler and a course for other programmers.
 
 <!--
 **korepanov/korepanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

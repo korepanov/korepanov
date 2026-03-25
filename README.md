@@ -4,7 +4,6 @@ I'm a backend developer:
 - Go
 - Python
 - C/C++
-- C#
 - Assembler
 
 ⚡ I'm currently working on a transpiler and a course for other programmers.

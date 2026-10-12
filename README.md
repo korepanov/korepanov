@@ -3,10 +3,8 @@
 I'm a backend developer:
 - Go
 - Python
-- C/C++
-- Assembler
 
-⚡ I'm currently working on a compiler and a course for other programmers.
+⚡ I'm currently working on a course for other programmers.
 
 <!--
 **korepanov/korepanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 I'm a backend developer:
 - Go
 - Python
-- Postgres
+- PostgreSQL
 
 ⚡ I'm currently working on a course for other programmers.
 
